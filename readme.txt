@@ -1,4 +1,8 @@
 this is the first file
 We shall never surrunder
 we changed a lot
-YOU & ME
+<<<<<<< HEAD
+YOU AND ME
+=======
+YOU AND ME
+>>>>>>> branch1
